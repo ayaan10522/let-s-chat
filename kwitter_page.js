@@ -1,11 +1,13 @@
-var firebaseConfig = {
-    apiKey: "AIzaSyAFWxJ6t5OQNBTHbpzmdgB0MNebgdwS2Cs",
-  authDomain: "robotic-idiom-341108.firebaseapp.com",
-  projectId: "robotic-idiom-341108",
-  storageBucket: "robotic-idiom-341108.appspot.com",
-  messagingSenderId: "376424146465",
-  appId: "1:376424146465:web:16670c071e82b821506560"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyBpE4s83vdAInbYON5XVETn5mMUVfz3cXo",
+  authDomain: "letschat-61543.firebaseapp.com",
+  databaseURL: "https://letschat-61543-default-rtdb.firebaseio.com",
+  projectId: "letschat-61543",
+  storageBucket: "letschat-61543.appspot.com",
+  messagingSenderId: "282278539513",
+  appId: "1:282278539513:web:7927496c2c54a0f2987228",
+  measurementId: "G-JLF521D6BB"
+};
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 //YOUR FIREBASE LINKS
